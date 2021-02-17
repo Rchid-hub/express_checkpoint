@@ -1,0 +1,15 @@
+h1{
+    color: blueviolet;
+}
+
+
+.navbar{
+    position :absolute;
+    left:80%;
+    top:30px
+}
+
+.content{
+    text-align: center;
+    margin-top: 80px;    
+}
